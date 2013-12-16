@@ -1,5 +1,5 @@
-Varna-Template
-==============
+Varna-Template v2
+=================
 
 Free, Open Source, minimalist, responsive website template.
 
