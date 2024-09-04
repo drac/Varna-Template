@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> Seyhan HUSEYIN <role> Front-end Developer <twitter> @drac89
+    <name> Seyhan Dzhamur <role> Front-end Developer <github> @drac
 
 # TECHNOLOGY COLOPHON
 
